@@ -14,7 +14,7 @@
         {% assign sorted_cats = site.categories | sort %}
           {% for category in sorted_cats %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
-              {% if category_name == "R" %}
+              {% if category_name == "CS-343" %}
                 {% for post in site.categories[category_name] limit: 5 %}              
 
                     {% capture date_published %}{{ post.date | date_to_xmlschema}}{% endcapture %}
