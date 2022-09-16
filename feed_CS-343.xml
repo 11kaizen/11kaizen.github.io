@@ -7,7 +7,7 @@
 
     <updated>{{ "now" | date_to_xmlschema}}</updated>
 
-    <id>{{ site.url }}/feed_R.xml</id>
+    <id>{{ site.url }}/feed_CS-343.xml</id>
     <title type="html">De Arrow's Webpage</title>
     <subtitle>Posts related to CS343</subtitle>
    
