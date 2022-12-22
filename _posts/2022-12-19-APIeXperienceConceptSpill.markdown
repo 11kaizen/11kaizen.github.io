@@ -16,6 +16,7 @@ categories: [CS@Worcester, CS-343, Week-15]
   {% endfor %}
 </div>
 
+
 ## Why I chose this post
 This post caught my attention as I was scrolling through Uwe Friedrichsen's list of blogs. It had API in its subtitle and since we had covered RESTful API's in class I though this would be a great opportunity to see his approach to API design. After scanning through the blog I saw the term concept spill which I had not heard before and I thought it would be interesting to learn something new about API through the lens of an experienced IT specialist.
 
