@@ -2,7 +2,7 @@
 layout: post
 title:  "Libre Food Pantry and Thea's Pantry"
 date:   2023-01-19 16:48:00 -0400
-categories: [CS@Worcester, CS-448, Set-up Task #3]
+categories: [CS@Worcester, CS-448, Set-upTask3]
 ---
 <div class="post-categories">
   {% if post %}
