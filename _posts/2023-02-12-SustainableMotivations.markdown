@@ -26,4 +26,6 @@ After a couple of examples the authors ask us to rediscover our motivations by l
 ## Reflection
 Sustainable Motivations are important especially when the journey is long, i believe that this will be an important part of my career journey to constantly remind me as to why I am doing what I am doing. That pattern has reinforced the importance of me understanding why I do what I am doing. On the point of having money as a primary motivation in you career I find it had to accept it. I think it would be foolish to run after money as you will end up loosing so much more in pursuit of money. As the author mentions follow your passions and then money will come to you effortlessly.
 
+Concluding, I would like to point out one of the programmers that the authors mention, Obie. Obie took a huge risk by choosing to start from scratch and learn a new language although he was proefecient in the language he knew. However through having sutstainable motivation he was able to ascend to higher heights eventually leading him to start his own web application development program.
+
 It is important to remember the how sustainable motivations can continually recharge and re-energize us for the long journey that is ahead of us.
