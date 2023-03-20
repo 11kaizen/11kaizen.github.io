@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Retrospective Blog: Sprint - 1"
-date:   2023-02-19 20:30:00 -0400
+date:   2023-03-19 20:30:00 -0400
 categories: [CS@Worcester, CS-448, Sprint-1]
 ---
 <div class="post-categories">
