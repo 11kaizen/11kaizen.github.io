@@ -14,8 +14,8 @@ categories: [CS@Worcester, CS-448]
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</div>## Summary
-T## Summary
+</div>
+## Summary
 Ever got stuck? Need that extra umph to carry you through the rough patch that you are in? Feel like you don't know what you are doing anymore? This pattern can be the solution to your problem! The authors introduce us to this pattern that could best be summarized as, "Someitmes you need ot take one step back in order ot take two steps forward." In those moments when you feel that you are not doing enough the authors recommend that you go back, back to that which you are good in doing. They recommend using this pattern especially when you feel as if you have streched yourself thin. Taking a step back allows one to remind themselves of the accomplishments that they have made in the past and gives them some extra motivation to carry on with the challenging part of the project that they are undertaking.
 
 However, the author warns us that this pattern if not carefully managed might lead you futher back that you had initially intended. Instead of the two steps forward that is the ultimate goal of this reflection. One might go back and find it very hard to move forward if you don't relaize what you went back for. It might lead to double the trouble compared to actually reducing the roadblocks that are currently in your way. 
